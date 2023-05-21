@@ -10,7 +10,7 @@ type Post = {
         title: "My First Post",
       },
       {
-        slug: "this is my first post",
+        slug: "Post nr 2",
         title: "post nr:2",
       },
     ];

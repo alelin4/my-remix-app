@@ -10,7 +10,7 @@ export default function PostSlug() {
   const { slug } = useLoaderData<typeof loader>();
   return (
     <main className="mx-auto max-w-4xl">
-      <h1 className="my-6 border-b-2 text-center text-3xl">
+      <h1 id="content">
         Here are my: {slug}
       </h1>
     </main>
