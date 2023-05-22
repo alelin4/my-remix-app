@@ -1,3 +1,6 @@
+This is a short text that explains how you start up your Remix.
+
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
